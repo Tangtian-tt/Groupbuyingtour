@@ -1,0 +1,42 @@
+<html>
+<body>
+{% extends 'base.html' %}
+{% block content %}
+<div class="container">
+ <form action="">
+  <div class="mb-3">
+     <label class="form-label">搜索旅游方案:</label>
+     <input type="text" name="searchTour"
+     class="form-control" />
+  </div>
+<button type="submit" class="btn btn-primary">
+搜索
+</button>
+</form>
+<p>搜索 {{ searchTerm }}</p>
+<div class="row row-cols-1 row-cols-md-3 g-4">
+{% for tour in tours %}
+<div v-for="tour in tours" class="col">
+<div class="card">
+<img class="card-img-top" src="{{ tour.image.url }}" />
+<div class="card-body">
+    <a href="{% url 'tourdetail' tour.id %}">
+<h5 class="card-title fw-bold">{{ tour.title }}</h5>
+    </a>
+    <h4 class="card-title fw-bold">{{ tour.price }}</h4>
+<p class="card-text">{{ tour.description|truncatechars:40 }}</p>
+{% if tour.url %}
+<a href="{{ tour.url }}" class="btn btn-primary">国内团购旅游资源链接</a>
+{% endif %}
+</div>
+</div>
+</div>
+{% endfor %}
+</div>
+</div>
+<div class="d-flex justify-content-center align-items-center">
+    {% include "pagination.html" with page=tours %}
+</div>
+{% endblock content %}
+</body>
+</html>

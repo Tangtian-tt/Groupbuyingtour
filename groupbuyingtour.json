@@ -1,0 +1,963 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2024-11-20T19:57:56.874",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "长沙出发-跟团游【北京直飞】俄罗斯9日游*北纬68度不 冻港|两次追极光【升级四飞+破冰船+北极圈+萨米村+驯鹿拉 雪橇+喂驯鹿】全含",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2024-11-20T20:00:54.030",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "钻 长沙出发-私家团 赠送延吉旅拍o哈尔滨+雪乡+长白山+图 们+延吉7日【3+4星酒店·长白山温泉】马拉爬犁+驯鹿园+图们 国门+冰瀑+冰娱乐",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2024-11-20T20:04:41.052",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "长沙出发-跟团游 大理丽江香格里拉6日の纯玩12人高品小 团『全程5鉆<)奢住海景房+下午茶+喜洲航拍/骑行』洱海双廊 +普达措+虎跳峡+篝火",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2024-11-20T20:06:20.739",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "长沙出发-跟团游【陆地头等舱】长白山天池+延吉+雾凇漂 流+万科滑雪+两晚温泉酒店|纯玩6日游",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2024-11-20T20:10:01.924",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "长沙出发-跟团游 成都+九寨沟+黄龙+都江堰+峨眉山+乐山 大佛6日游|真纯玩0购物|豪华型五酒店 |赠藏家欢乐颂| 24H专车接送机/站",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2024-11-20T20:13:18.400",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "钻 长沙出发-私家团 奢享·北疆三湖深度8日| 冬季火热预售| 阿勒泰喀纳斯禾木+天山天池+赛里木湖|五晚豪华酒店+两晚 禾木景区高档酒店|一单一团",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2024-11-20T22:11:47.046",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "tt",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2024-11-20T22:38:28.280",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "2",
+    "object_repr": "长沙出发-跟团游【北京直飞】俄罗斯9日游*北纬68度不 冻港|两次追极光【升级四飞+破冰船+北极圈+萨米村+驯鹿拉 雪橇+喂驯鹿】全含",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2024-11-20T22:38:57.649",
+    "user": 1,
+    "content_type": 12,
+    "object_id": "2",
+    "object_repr": "adad",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2024-11-20T22:41:35.207",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "3",
+    "object_repr": "长沙出发-跟团游 立减! | 4晚冰岛+塔林+杰古沙龙湖+蓝冰洞+黄金圈+钻石沙滩+双邮 轮豪华体验",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2024-11-20T22:43:37.212",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "4",
+    "object_repr": "长沙出发-跟团游 苏格兰+英格兰9日【含首尾希斯罗机场酒店 +伦敦特色游】剑桥+牛津+伦敦+温德米尔湖+肉铺街",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2024-11-20T22:46:17.838",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "5",
+    "object_repr": "长沙出发-跟团游 惠游记·德法意瑞11日|含签证小费+全国联 运+卢浮宫入内+琉森湖+<▶意大利段四星住宿+巴黎+威尼斯罗 马佛罗伦萨名城联游",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2024-11-20T22:46:30.950",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "tt",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2024-11-20T22:50:55.402",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "6",
+    "object_repr": "长沙出发-跟团游【德国+奥地利+瑞士 三国10天】含签证 办理+丰富景点打卡新天鹅堡入内+金色山口列车+博登湖游船 +琉森2晚湖区酒店连住",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2024-11-20T23:05:50.256",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "7",
+    "object_repr": "长沙出发-跟团游 新加坡+马来西亚+仙本那8天7晚跟团游 纯玩0购物/圣淘沙岛/鱼尾狮公园/滨海湾花园/打卡网红水上 屋/卡帕莱浮潜",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2024-11-20T23:14:30.924",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "3",
+    "object_repr": "长沙出发-跟团游 立减! | 4晚冰岛+塔林+杰古沙龙湖+蓝冰洞+黄金圈+钻石沙滩+双邮 轮豪华体验",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u56e2\\u8d2d\\u4ef7\\u683c\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2024-11-20T23:15:00.814",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "长沙出发-私家团 赠送延吉旅拍o哈尔滨+雪乡+长白山+图 们+延吉7日【3+4星酒店·长白山温泉】马拉爬犁+驯鹿园+图们 国门+冰瀑+冰娱乐",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u56fd\\u5185\\u56e2\\u8d2d\\u65c5\\u6e38\\u65b9\\u6848\\u540d\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2024-11-20T23:15:17.857",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "长沙出发-私家团 奢享·北疆三湖深度8日| 冬季火热预售| 阿勒泰喀纳斯禾木+天山天池+赛里木湖|五晚豪华酒店+两晚 禾木景区高档酒店|一单一团",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"\\u56fd\\u5185\\u56e2\\u8d2d\\u65c5\\u6e38\\u65b9\\u6848\\u540d\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add 国内团购旅游",
+    "content_type": 7,
+    "codename": "add_tour"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change 国内团购旅游",
+    "content_type": 7,
+    "codename": "change_tour"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete 国内团购旅游",
+    "content_type": 7,
+    "codename": "delete_tour"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view 国内团购旅游",
+    "content_type": 7,
+    "codename": "view_tour"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add review",
+    "content_type": 8,
+    "codename": "add_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change review",
+    "content_type": 8,
+    "codename": "change_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete review",
+    "content_type": 8,
+    "codename": "delete_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view review",
+    "content_type": 8,
+    "codename": "view_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add 国际团购旅游",
+    "content_type": 9,
+    "codename": "add_intertour"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change 国际团购旅游",
+    "content_type": 9,
+    "codename": "change_intertour"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete 国际团购旅游",
+    "content_type": 9,
+    "codename": "delete_intertour"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view 国际团购旅游",
+    "content_type": 9,
+    "codename": "view_intertour"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add review",
+    "content_type": 10,
+    "codename": "add_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change review",
+    "content_type": 10,
+    "codename": "change_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete review",
+    "content_type": 10,
+    "codename": "delete_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view review",
+    "content_type": 10,
+    "codename": "view_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add 国际团购旅游",
+    "content_type": 11,
+    "codename": "add_abroad"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change 国际团购旅游",
+    "content_type": 11,
+    "codename": "change_abroad"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete 国际团购旅游",
+    "content_type": 11,
+    "codename": "delete_abroad"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view 国际团购旅游",
+    "content_type": 11,
+    "codename": "view_abroad"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 45,
+  "fields": {
+    "name": "Can add review",
+    "content_type": 12,
+    "codename": "add_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 46,
+  "fields": {
+    "name": "Can change review",
+    "content_type": 12,
+    "codename": "change_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 47,
+  "fields": {
+    "name": "Can delete review",
+    "content_type": 12,
+    "codename": "delete_review"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 48,
+  "fields": {
+    "name": "Can view review",
+    "content_type": 12,
+    "codename": "view_review"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$870000$bN7doSXprF1wZejd0FkpGC$2K3l9jgH+aesZZsKmgV2O4m2sEJ5HE9/9XwJFikIByw=",
+    "last_login": "2024-11-21T00:47:00.351",
+    "is_superuser": true,
+    "username": "TT",
+    "first_name": "",
+    "last_name": "",
+    "email": "2820979422@qq.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2024-11-20T19:50:42.154",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "tour",
+    "model": "tour"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "tour",
+    "model": "review"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "intertour",
+    "model": "intertour"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "intertour",
+    "model": "review"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "abroad",
+    "model": "abroad"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 12,
+  "fields": {
+    "app_label": "abroad",
+    "model": "review"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "pmmhelznmf0rhfryk1ke5exk25x3gitv",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hDKwEBduvcMZIBBqoYmpV0Z765NutDtf-_9lwi0rTVsnZcwZXEWgzj9bpHSg9sO8p3abZZpbusyRbkr8qBdXufMz8vh_h1U6vVbpwQxEoBBLNaVAdmT1qCgWEMIBOOonHOsiDJopIhotSfL3oH3hsX7A9l5N0Y:1tDjF8:HQdem6AT0diUPVTdx_BqDbls4V4YqoxKWFrZlIO_ZJc",
+    "expire_date": "2024-12-04T19:51:34.810"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "x3h03i3gv9u9who21hfyq4qwcmr77hik",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hDKwEBduvcMZIBBqoYmpV0Z765NutDtf-_9lwi0rTVsnZcwZXEWgzj9bpHSg9sO8p3abZZpbusyRbkr8qBdXufMz8vh_h1U6vVbpwQxEoBBLNaVAdmT1qCgWEMIBOOonHOsiDJopIhotSfL3oH3hsX7A9l5N0Y:1tDnr2:p49Jk_z_nGRlKn8Pkn0Vs1VnTeoFlZfgjO9Kk0rMwlI",
+    "expire_date": "2024-12-05T00:47:00.367"
+  }
+},
+{
+  "model": "tour.tour",
+  "pk": 1,
+  "fields": {
+    "title": "长沙出发-私家团 赠送延吉旅拍o哈尔滨+雪乡+长白山+图 们+延吉7日【3+4星酒店·长白山温泉】马拉爬犁+驯鹿园+图们 国门+冰瀑+冰娱乐",
+    "description": "NO 1 航班自选 含机票,可自选航班,支付金额以下单页为准  NO 2 第一买点 雾松漂流|国门图们|长白山天池|雪乡  NO3 第二买点 滑雪/摩托二选一|马拉爬犁| 冰瀑冬捕  NO 4 第三买点 赠399“在逃公主”写真旅拍|朝鲜民俗村  NO5 第四买点 1单1团|24H接送机|24H管家|滑雪",
+    "price": "¥5410/人",
+    "image": "tour/images/2_48mrdmI.jpg",
+    "url": "https://touch.dujia.qunar.com/p/detail?id=461383867&tuId=PID461383867G2833033845&date=2024-11-21&tm=ign_t_origin&qssrc=eyJ0cyI6IjE3MzIxMDM5NTgyNTQiLCJzcmMiOiJhbGwuZW52YSIsImFjdCI6InNlYXJjaCIsInJhbmRvb"
+  }
+},
+{
+  "model": "tour.tour",
+  "pk": 2,
+  "fields": {
+    "title": "长沙出发-跟团游 大理丽江香格里拉6日の纯玩12人高品小 团『全程5鉆<)奢住海景房+下午茶+喜洲航拍/骑行』洱海双廊 +普达措+虎跳峡+篝火",
+    "description": "NO1 奢享时光 直飞丽江减少车程,豪华型住宿,大理海景房  NO2 缤纷景点 洱海+喜洲古镇+玉龙雪山+蓝月谷+虎跳峡  NO3 丰富玩乐 洱海游船+喜洲航拍/骑行+藏民篝火晚会  NO 4 升级服务 保证玉龙雪山大索道/保雪山大索",
+    "price": "¥5144/人",
+    "image": "tour/images/1.1.jpg",
+    "url": "https://touch.dujia.qunar.com/p/detail?id=4129061685&date=2024-12-12&routeId=&tuId=&listDep=%E9%95%BF%E6%B2%99&t3id="
+  }
+},
+{
+  "model": "tour.tour",
+  "pk": 3,
+  "fields": {
+    "title": "长沙出发-跟团游【陆地头等舱】长白山天池+延吉+雾凇漂 流+万科滑雪+两晚温泉酒店|纯玩6日游",
+    "description": "NO 1 航班自选 含机票,可自选航班,支付金额以下单页为准  NO2 优质服务 24小时专属管家+24小时接机/接站服务  NO 3 精选酒店 一晚五钻+四晚四钻|两晚长白山温泉酒店  NO 4 特色美食 朝鲜族歌舞表演餐+东北风味餐等  No5至尊服务 全程无购物店,无任何陷阱。",
+    "price": "¥3220/人",
+    "image": "tour/images/1.2.jpg",
+    "url": "https://touch.dujia.qunar.com/p/detail?id=2706663957&tuId=PID2706663957G2680497258&date=2024-11-23&routeId=&listDep=%E9%95%BF%E6%B2%99&t3id="
+  }
+},
+{
+  "model": "tour.tour",
+  "pk": 4,
+  "fields": {
+    "title": "长沙出发-跟团游 成都+九寨沟+黄龙+都江堰+峨眉山+乐山 大佛6日游|真纯玩0购物|豪华型五酒店 |赠藏家欢乐颂| 24H专车接送机/站",
+    "description": "NO1 航班自选 含机票,可自选航班,支付金额以下单页为准  NO 2 品质保障 品质保障:坚持真纯玩深度游,绝不进购物店  NO 3 优质交通 2+1豪华保姆车|极度舒适|超宽沙发座椅  NO 4 精选酒店 精心甄选多种标准酒店,每晚送您一份舒心睡  NO5 特色美食 高原牦牛汤锅+走进藏家土火锅+特色羌家福",
+    "price": "¥2946/人",
+    "image": "tour/images/1.3.jpg",
+    "url": "https://touch.dujia.qunar.com/p/detail?id=1444978103&tuId=PID1444978103G623774278&date=2024-12-18&tm=ign_t_origin&qssrc=eyJ0cyI6IjE3MzIxMDQ1MDI0MzMiLCJzcmMiOiJhbGwuZW52YSIsImFjdCI6InNlYXJjaCIsInJhbmRv"
+  }
+},
+{
+  "model": "tour.tour",
+  "pk": 5,
+  "fields": {
+    "title": "长沙出发-私家团 奢享·北疆三湖深度8日| 冬季火热预售| 阿勒泰喀纳斯禾木+天山天池+赛里木湖|五晚豪华酒店+两晚 禾木景区高档酒店|一单一团",
+    "description": "NO1 奢享体验 含门票|多人下单立减,禾木景区连住不挪窝  NO 2 贴心赠送 赛里木湖VIP直通车环湖+无人机航拍体验  NO 3 品质优选 私家团一单一团,独立发车,随走随停  NO 4 贴心安排 24小时在线管家服务+接送机+旅游意外险",
+    "price": "¥7105/人",
+    "image": "tour/images/1.4.jpg",
+    "url": "https://touch.dujia.qunar.com/p/detail?id=351145456&tuId=PID351145456G735653462&date=2024-11-26&tm=ign_t_origin&qssrc=eyJ0cyI6IjE3MzIxMDQ2ODM5MzkiLCJzcmMiOiJhbGwuZW52YSIsImFjdCI6InNlYXJjaCIsInJhbmRvbS"
+  }
+},
+{
+  "model": "tour.review",
+  "pk": 1,
+  "fields": {
+    "text": "wfw",
+    "date": "2024-11-20T20:13:44.701",
+    "user": 1,
+    "tour": 4,
+    "watchAgain": false
+  }
+},
+{
+  "model": "tour.review",
+  "pk": 4,
+  "fields": {
+    "text": "faafa",
+    "date": "2024-11-21T14:23:55.776",
+    "user": 1,
+    "tour": 1,
+    "watchAgain": false
+  }
+},
+{
+  "model": "abroad.abroad",
+  "pk": 2,
+  "fields": {
+    "title": "长沙出发-跟团游【北京直飞】俄罗斯9日游*北纬68度不 冻港|两次追极光【升级四飞+破冰船+北极圈+萨米村+驯鹿拉 雪橇+喂驯鹿】全含",
+    "description": "NO1 服务保障 十年品牌值得信赖!全程专业领队+境外中导  NO2 精选酒店 全程精品4星酒店,北极圈连住3晚  NO 3 丰富玩乐 两次追光+摩尔曼斯克经典景点",
+    "price": "¥10524/人",
+    "image": "abroad/images/5.jpg",
+    "url": "https://touch.dujia.qunar.com/p/detail?id=205542419&tuId=PID205542419A1018727054&date=2024-12-08&routeId=&listDep=%E5%8C%97%E4%BA%AC&t3id="
+  }
+},
+{
+  "model": "abroad.abroad",
+  "pk": 3,
+  "fields": {
+    "title": "长沙出发-跟团游 立减! | 4晚冰岛+塔林+杰古沙龙湖+蓝冰洞+黄金圈+钻石沙滩+双邮 轮豪华体验",
+    "description": "NO 1 优质交通 国航北京直飞+免费全国联运+国际豪华游轮  NO2 精选酒店 全程当地4星+冰岛小镇酒店+冰岛连住4晚  NO 3 特色美食 2顿邮轮海鲜自助+肉丸餐+猪排餐+羊肉汤  NO 4 缤纷景点 塔林+杰古沙龙湖+蓝冰洞+黄金圈+黑沙滩",
+    "price": "¥35802/人",
+    "image": "abroad/images/2.1.jpg",
+    "url": "https://touch.dujia.qunar.com/p/detail?id=639404415&tuId=PID639404415A1018727054&date=2024-12-05&routeId=&listDep=%E5%8C%97%E4%BA%AC&t3id="
+  }
+},
+{
+  "model": "abroad.abroad",
+  "pk": 4,
+  "fields": {
+    "title": "长沙出发-跟团游 苏格兰+英格兰9日【含首尾希斯罗机场酒店 +伦敦特色游】剑桥+牛津+伦敦+温德米尔湖+肉铺街",
+    "description": "NO1 航班自选 含机票,可自选航班,支付金额以下单页为准  NO2 优质服务 精英专职中文导游,全程服务,精彩讲解  NO 3 优质交通 品质产品,保证大巴车空座率10%  NO 4 丰富玩乐 双学府打卡,伦敦特色游  NO5 贴心赠送 苏格兰最美风景公路+爱丁堡/约克",
+    "price": "¥19677/人",
+    "image": "abroad/images/2.2.jpg",
+    "url": "https://touch.dujia.qunar.com/p/detail?id=4236017096&tuId=PID4236017096G4014935957&date=2024-12-15&tm=ioz_t_origin&qssrc=eyJ0cyI6IjE3MzIxMTM3MDExNzUiLCJzcmMiOiJhbGwuZW52YSIsImFjdCI6InNlYXJjaCIsInJhbmR"
+  }
+},
+{
+  "model": "abroad.abroad",
+  "pk": 5,
+  "fields": {
+    "title": "长沙出发-跟团游 惠游记·德法意瑞11日|含签证小费+全国联 运+卢浮宫入内+琉森湖+<▶意大利段四星住宿+巴黎+威尼斯罗 马佛罗伦萨名城联游",
+    "description": "NO 1 优质交通 东航往返双直飞,法兰克福&罗马双点进出  NO 2 精选酒店 全程3-4星酒店|意大利段升级四星住宿  NO3 缤纷景点 文艺纯净浪漫梦幻一路解锁西欧的大小城镇  NO 4 贴心赠送 全国免费联运,卢森堡、邮票王国",
+    "price": "¥8800/人",
+    "image": "abroad/images/2.3.jpg",
+    "url": "https://touch.dujia.qunar.com/p/detail?id=2532914637&tuId=PID2532914637A1018727054&date=2024-12-06&routeId=&listDep=%E4%B8%8A%E6%B5%B7&t3id="
+  }
+},
+{
+  "model": "abroad.abroad",
+  "pk": 6,
+  "fields": {
+    "title": "长沙出发-跟团游【德国+奥地利+瑞士 三国10天】含签证 办理+丰富景点打卡新天鹅堡入内+金色山口列车+博登湖游船 +琉森2晚湖区酒店连住",
+    "description": "NO 1 优质交通 中国国际航空,成都起止米兰往返(全国联运  NO2 贴心赠送 转换插头+机上三宝+WIFI四人共享  NO 3 优良资质 早餐不分区,保证不拆夫妻,升级领队标准  NO 4 丰富玩乐 四大湖区秘境+四大绝美山城+地道美食",
+    "price": "¥15895/人",
+    "image": "abroad/images/2.4.jpg",
+    "url": "https://touch.dujia.qunar.com/p/detail?id=3429063042&tuId=PID3429063042A1018727054&date=2024-12-22&routeId=&listDep=%E6%88%90%E9%83%BD&t3id="
+  }
+},
+{
+  "model": "abroad.abroad",
+  "pk": 7,
+  "fields": {
+    "title": "长沙出发-跟团游 新加坡+马来西亚+仙本那8天7晚跟团游 纯玩0购物/圣淘沙岛/鱼尾狮公园/滨海湾花园/打卡网红水上 屋/卡帕莱浮潜",
+    "description": "NO1 家庭出游 真正纯玩0购物-特色美食大荟萃-行程轻松  NO2 甄选酒店 三晚当地国际五星+波德申当地特色水上屋  NO3 缤纷景点 哈芝巷、太子城、波德申、马达京岛浮潜  NO,4 特色美食 咖喱面包鸡、肉骨茶、南洋特色餐、马来风味",
+    "price": "¥8606/人",
+    "image": "abroad/images/2.5.jpg",
+    "url": "https://touch.dujia.qunar.com/p/detail?id=2019920110&tuId=PID2019920110G1505937014&date=2024-11-27&tm=ixmd_t_origin&qssrc=eyJ0cyI6IjE3MzIxMTQ2NjI0MjUiLCJzcmMiOiJhbGwuZW52YSIsImFjdCI6InNlYXJjaCIsInJhbm"
+  }
+},
+{
+  "model": "abroad.review",
+  "pk": 2,
+  "fields": {
+    "text": "adad",
+    "date": "2024-11-20T22:38:57.642",
+    "user": 1,
+    "abroad": 2,
+    "watchAgain": true
+  }
+},
+{
+  "model": "abroad.review",
+  "pk": 3,
+  "fields": {
+    "text": "weg",
+    "date": "2024-11-20T23:06:29.200",
+    "user": 1,
+    "abroad": 6,
+    "watchAgain": false
+  }
+}
+]
